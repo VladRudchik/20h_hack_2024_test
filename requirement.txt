@@ -1,0 +1,10 @@
+numpy
+pandas
+pandas-datareader
+scipy
+matplotlib
+tensorflow
+scikit-learn
+scikit-image
+pydicom
+requests
